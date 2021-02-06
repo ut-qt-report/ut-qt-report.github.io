@@ -28,20 +28,16 @@ nav {
     background-color: #E2F0CB;
 }
 
-.content-section[id="survey"] {
+.content-section[id="focus-groups"] {
     background-color: #B2EBFF;
 }
 
-.content-section[id="focus-groups"] {
-    background-color: #F99191;
-}
-
-.content-section[id="join"] {
-    background-color: #A0ACEF;
+.content-section[id="survey"] {
+    background-color: #FFC0D0;
 }
 
 .content-section[id="contact"] {
-    background-color: #D3DAFF;
+    background-color: #FED7C3;
 }
 
 button:focus {
